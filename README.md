@@ -1,4 +1,4 @@
-# xill
+Hu# xill
 This script by alvino &amp; upgrade by me xill denim ,this tools free ,enjoy brother and succesfully
 
 
@@ -12,7 +12,7 @@ pip install Mechanize
 
 pip install requests bs4
 
-git clone https://github.com/YnndXyaa/xill
+git clone https://github.com/YnndXyaa/Xill
 
 cd Xill
 
