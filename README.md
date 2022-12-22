@@ -18,7 +18,7 @@ cd Xill
 
 ls
 
-Python xillenc.py
+python xillenc.py
 
 --------------------------------------------
 
