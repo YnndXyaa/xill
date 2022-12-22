@@ -12,7 +12,7 @@ pip install Mechanize
 
 pip install requests bs4
 
-git clone https://github.com/YnndXyaa/Xill
+git clone https://github.com/YnndXyaa/xill
 
 cd Xill
 
