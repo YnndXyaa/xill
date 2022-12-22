@@ -1,0 +1,6 @@
+<audio controls class="audiplay" >
+     <source
+     src="https://cdn.jsdelivr.net/gh/sh20raj/AudiPlay/Ark.mp3"
+     type="audio/mp3"/>
+</audio>
+<!--Here is the Audio Tag Library-->
