@@ -12,10 +12,13 @@ pip install Mechanize
 
 pip install requests bs4
 
-git clone https://github.com/YnndXyaa/xill
+git clone https://github.com/YnndXyaa/Xill
 
-cd xill
+cd Xill
 
 ls
 
 Python xillenc.py
+
+--------------------------------------------
+#WAALAIKUM SALAM☺
