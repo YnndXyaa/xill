@@ -18,5 +18,14 @@ $pip install play-audio
 
 $ git clone https://github.com/YnndXyaa/xill
 
+$cd xill
+
+$ls
+
+$python xillenc.py
+
+
+
+
 
 #HAPPY CRACKING 🗿
